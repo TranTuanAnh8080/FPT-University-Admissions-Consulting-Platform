@@ -1,9 +1,6 @@
 import React from "react";
 import { IMAGES } from "../../constants/images";
 import text from "../../constants/resources.json";
-import searchIcon from "../../assets/search.svg";
-import vnFlag from "../../assets/Flag_of_Vietnam.svg.png";
-import enFlag from "../../assets/Flag_of_US.png";
 import Toolbar from "./Toolbar";
 import { Link, useNavigate } from "react-router-dom";
 import { Button } from "@material-tailwind/react";
